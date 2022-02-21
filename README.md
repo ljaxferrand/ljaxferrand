@@ -15,7 +15,7 @@ My superpower is: curiosity 🤔
 
 Fun fact: I used to be a cheesemonger. My favourite cheese of the moment is: Cypress Grove's Humboldt Fog 🧀
 
-## 💬 Let's Connect!
+## 💬 Let's connect!
 
 Where you can find me:
 
