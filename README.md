@@ -9,9 +9,9 @@ I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art �
 
 ## 🙋🏻 A bit about me:
 
-Right now, I spend most of my time playing around with GSAP 💚
+Right now I spend most of my time playing around with: GSAP 💚
 
-My superpower is curiosity 🤔
+My superpower is: curiosity 🤔
 
 Fun fact: I used to be a cheesemonger. My favourite cheese of the moment is: Cypress Grove's Humboldt Fog 🧀
 
@@ -29,10 +29,7 @@ Where you can find me:
 ## 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljaxferrand&hide=stars&show_icons=true&theme=nightowl&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljaxferrand&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ljaxferrand&hide=stars&show_icons=true&theme=nightowl&count_private=true" />
 </a>
 
 ## 😂 The best medicine
