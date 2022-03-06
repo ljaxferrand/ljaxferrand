@@ -36,7 +36,7 @@ Where you can find me:
 
 ## 😂 The best medicine
 
-Let me leave you with a random joke:
+Thanks for stopping by. Here is a joke to make you smile:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
