@@ -9,6 +9,8 @@ I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art �
 
 ## 🙋🏻 A bit about me:
 
+I'm a graduate of British Columbia Institute of Technology's Front-end Web Developer program 🎓
+
 Right now I spend most of my time playing around with: GSAP 💚
 
 My superpower is: curiosity 🤔
