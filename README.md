@@ -5,7 +5,7 @@
 
 A front-end web developer from Canada 🇨🇦.
 
-I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art 🎨, and nature 🌳. All the good things in life, you know?
+I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art 🎨, and nature 🌳. The good things in life, you know?
 
 ## 🙋🏻 A bit about me:
 
