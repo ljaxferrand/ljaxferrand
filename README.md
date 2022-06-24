@@ -11,7 +11,7 @@ I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art �
 
 I'm a graduate of British Columbia Institute of Technology's Front-end Web Developer program 🎓
 
-Right now I spend most of my time playing around with: GSAP 💚
+Right now I spend most of my time playing around with: Next.js & Framer Motion
 
 My superpower is: curiosity 🤔
 
