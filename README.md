@@ -5,15 +5,11 @@
 
 A front-end web developer from Canada 🇨🇦.
 
-I love all things tech 💻, learning 📚, food 🍕, fitness 🏋🏼, art 🎨, and nature 🌳. The good things in life, you know?
-
 ## 🙋🏻 A bit about me:
 
-I'm a graduate of British Columbia Institute of Technology's Front-end Web Developer program 🎓
+My superpower is: curiosity 🤔
 
 Right now I spend most of my time playing around with: Next.js & Framer Motion
-
-My superpower is: curiosity 🤔
 
 Fun fact: I used to be a cheesemonger. My favourite cheese of the moment is: Cypress Grove's Humboldt Fog 🧀
 
@@ -36,7 +32,7 @@ Where you can find me:
 
 ## 😂 The best medicine
 
-Thanks for stopping by. Here is a joke to make you smile:
+Thanks for stopping by! Here's a joke to brighten your day before you go:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
